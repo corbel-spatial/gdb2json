@@ -1,6 +1,6 @@
 # gdb2json
 
-A proof-of-concept module that extracts information from a geodatabase simply by looking at its XML.
+A proof-of-concept script that extracts information from a geodatabase simply by looking at its XML.
 
 ```python
 import gdb2json
